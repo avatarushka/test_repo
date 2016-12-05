@@ -1,2 +1,2 @@
 print HW
-print HW2
+priny hw 1
