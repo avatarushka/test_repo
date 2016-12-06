@@ -1,0 +1,3 @@
+new wtf Object
+wtf.create
+wtf.close
